@@ -23,9 +23,9 @@ A.	`00-Functions`: contains all the functions used in the simulation and applica
 
 B.	`01-Simulation-Studies`: 3 main simulations studies have been conducted in order to produce the relative section in the paper. 
 
-    -	`01-Testing-Non-Linear-Effect`: this simulation study is aimed at verifying coverage and power of the test involving **covariates that may be represented by univariate or multivariate components of the model matrix**.     
-    -	`02-Testing-Random-Effect`: this simulation study is aimed at verifying coverage and power of the test involving **components of the model effects referring to random effects fitted as splines**. 
-    -	`03-Omnibus-Testing`: this simulation study is aimed at verifying coverage and power of the test whenever inspecting **global adequacy of the model**. 
+* `01-Testing-Non-Linear-Effect`: this simulation study is aimed at verifying coverage and power of the test involving **covariates that may be represented by univariate or multivariate components of the model matrix**.     
+* `02-Testing-Random-Effect`: this simulation study is aimed at verifying coverage and power of the test involving **components of the model effects referring to random effects fitted as splines**. 
+* `03-Omnibus-Testing`: this simulation study is aimed at verifying coverage and power of the test whenever inspecting **global adequacy of the model**. 
     
 C.	`02-Application`: testing goodness of fit of several models fitted to data involving 57,791 emails sent by 159 employees of a Polish manufacturing company in 2010.
 
